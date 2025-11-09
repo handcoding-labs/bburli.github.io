@@ -8,8 +8,7 @@
 
 ## Contact
 
-- **Email**: burli.badari@gmail.com
-- **Phone**: +91-9035572137
+- **Email**: bburli.work@gmail.com
 - **Blog**: http://badariburli.blogspot.com/
 - **GitHub**: https://github.com/bburli-craft
 - **LinkedIn**: https://www.linkedin.com/in/bburli
