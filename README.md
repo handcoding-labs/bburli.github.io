@@ -9,9 +9,9 @@ I design and build high-performance, real-time AI systems — speech ingestion, 
 ## Contact
 
 - **Email**: bburli.work@gmail.com  
-- **Blog**: http://badariburli.blogspot.com/  
+- **Blog**: I talk about everything under the sun [here](http://badariburli.blogspot.com/). Not writing more here.
 - **GitHub**: https://github.com/bburli-craft  
-- **LinkedIn**: https://www.linkedin.com/in/bburli  
+- **LinkedIn**: [My Profile](https://www.linkedin.com/in/bburli)
 
 ---
 
@@ -86,7 +86,7 @@ Presented at **Redis Released Mumbai**; widely appreciated by attendees.
 
 A Golang client for Redis Streams optimized for high-throughput, low-latency workloads.
 
-🔗 https://github.com/handcoding-labs/redis-stream-client-go
+🔗 [https://github.com/handcoding-labs/redis-stream-client-go](https://github.com/handcoding-labs/redis-stream-client-go)
 
 ---
 
